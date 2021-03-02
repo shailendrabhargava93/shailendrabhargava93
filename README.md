@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **shailendrabhargava93/shailendrabhargava93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A Chat App
-- 🌱 I’m currently learning ... AWS Concepts
+- 🔭 I’m currently working on A Chat App
+- 🌱 I’m currently learning about AWS Concepts
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Angular
+- 💬 Ask me about Angular
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
