@@ -11,7 +11,7 @@ Hi, I'm Shailedra a Full-Stack developer working in India.
 <br>
 🌐 Visit my <a href="http://shailendrabhargava93.github.io/" rel="nofollow">porfolio website</a> for complete background and contact.
 
-<img src="https://img.shields.io/badge/HTML-Expert-orange">
+<img src="https://img.shields.io/badge/HTML-Expert-orange"> <img src="https://img.shields.io/badge/CSS-Expert-yellow"> <img src="https://img.shields.io/badge/Angular-Intermediate-red">
 
 ![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailendrabhargava93&show_icons=true) 
 
