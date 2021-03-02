@@ -3,7 +3,7 @@
 <!--
 **shailendrabhargava93/shailendrabhargava93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-💻  <b>About Me<b>
+💻  <b>About Me</b>
 <br>
 Hi, I'm Shailedra a passionate developer and avid poetry writer.
 
