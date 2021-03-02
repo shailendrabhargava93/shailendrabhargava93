@@ -6,6 +6,7 @@
 Hi, I'm Shailedra a passionate developer and avid poetry writer.
 
 👨🏽‍💻 Currently working, learning and growing my skillset in Cloud Technologies, Front-end frameworks and in NoSQL databases.
+<br>
 🌐 Visit my <a href="http://shailendrabhargava93.github.io/" rel="nofollow">porfolio website</a> for complete background and contact.
 
 
