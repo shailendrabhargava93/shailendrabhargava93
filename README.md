@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailendrabhargava93&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93)
+📊 My stats
+![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailendrabhargava93&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shailendrabhargava93&repo=shailendrabhargava93.github.io)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93)
+
+🛠  Tech Stack
+Python  JavaScript  Java  C  C++  R (Statistics)
+React  Node.js  Django  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  RStudio  Eclipse
+Illustrator  Photoshop  InDesign
