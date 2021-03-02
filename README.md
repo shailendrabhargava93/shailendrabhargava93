@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shailendrabhargava93&repo=shailendrabhargava93.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93.shailendrabhargava93
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93)
