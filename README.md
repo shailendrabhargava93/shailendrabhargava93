@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <!--
-**shailendrabhargava93/shailendrabhargava93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shailendrabhargava93/shailendrabhargava93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi, I'm Shailedra a passionate developer and avid poetry writer.
 
@@ -11,6 +11,9 @@ Hi, I'm Shailedra a passionate developer and avid poetry writer.
 
 
 ![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=shailendrabhargava93&show_icons=true&theme=radical) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93)
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shailendrabhargava93&repo=shailendrabhargava93.github.io)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93)
