@@ -17,8 +17,7 @@ Hi, I'm Shailedra a Full-Stack developer working in India.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93&layout=donut)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrabhargava93&layout=donut)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shailendrabhargava93&repo=shailendrabhargava93.github.io)
 
