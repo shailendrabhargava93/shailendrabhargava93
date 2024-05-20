@@ -23,4 +23,4 @@ Hi, I'm Shailedra a Full-Stack developer working in India.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93&left_color=red&right_color=green) 
