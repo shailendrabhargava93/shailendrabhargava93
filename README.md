@@ -22,3 +22,5 @@ Hi, I'm Shailedra a Full-Stack developer working in India.
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shailendrabhargava93&repo=shailendrabhargava93.github.io)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shailendrabhargava93.visitor-badge&left_color=red&right_color=green) 
