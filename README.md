@@ -24,7 +24,7 @@ Hi, I'm Shailedra a Full-Stack developer working in India.
 <!--NEW-->
 
 # 💫 About Me:
-👋  Hi, I'm Shailedra Bhargava a Full-Stack developer working in India.<br>🔭 I’m currently working on <a href="https://money-wise-web.vercel.app/" rel="nofollow">MoneyWise</a> Cross Platform Expense Tracker<br>🌱 I’m currently learning GCP, React and Mongo DB.<br>💬 Ask me about Angular and JavaScript.<br>🔗 <a href="http://shailendrabhargava93.github.io/" rel="nofollow">Portofolio</a> <br>⚡ Fun fact 
+👋  Hi, I'm Shailedra Bhargava a Full-Stack developer working in India.<br>🔭 I’m currently working on <a href="https://money-wise-web.vercel.app/" rel="nofollow">MoneyWise</a> Cross Platform Expense Tracker<br>🌱 I’m currently learning GCP, React and Mongo DB.<br>💬 Ask me about Angular and JavaScript.<br>🔗 <a href="http://shailendrabhargava93.github.io/" rel="nofollow">Portofolio</a> <br>⚡ Fun fact I can sing :)
 
 
 ## 🌐 Socials:
