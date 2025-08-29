@@ -7,7 +7,7 @@
 <br>
 Hi, I'm Shailedra a Full-Stack developer working in India.
 
-👨 Currently learning and growing my skillset in Cloud Technologies, Front-end frameworks and in NoSQL databases.
+👨 Currently learning and growing my skillset in Cloud Technologies, ReactJs and NoSQL databases.
 <br>
 🌐 Visit my <a href="http://shailendrabhargava93.github.io/" rel="nofollow">porfolio website</a> for complete background and contact.
 
